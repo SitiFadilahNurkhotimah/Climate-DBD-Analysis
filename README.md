@@ -12,4 +12,4 @@ Project ini bertujuan untuk melakukan data wrangling pada tiga dataset:
 3. Data Kasus DBD - Kementerian Kesehatan => Profil Kesehatan Indonesia Tahun 2019 dan 2020
    https://www.kemkes.go.id/id/category-download/profil-kesehatan
 
-_© 2026 Siti Fadilah Nurkhotimah. All rights reserved. Dokumen ini disusun untuk kepentingan portofolio akademik._
+_© 2025 Siti Fadilah Nurkhotimah. All rights reserved. Dokumen ini disusun untuk kepentingan portofolio akademik._
