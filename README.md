@@ -3,7 +3,7 @@
 #### Disusun oleh: Siti Fadilah Nurkhotimah dan Laili Nurrohmatul Fadhila Zulfa
 ---
 
-## Deskripsi
+## Sumber Data
 Project ini bertujuan untuk melakukan data wrangling pada tiga dataset:
 1. Data Iklim - Kaggle => Climate Data Daily IDN
    https://www.kaggle.com/datasets/greegtitan/indonesia-climate
