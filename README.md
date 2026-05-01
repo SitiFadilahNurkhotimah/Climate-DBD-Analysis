@@ -1,22 +1,15 @@
-# REVISI - Project Akhir Data Wrangling 
-"Analisis Pengaruh Faktor Iklim dan Kepadatan Penduduk Terhadap Kasus Demam Berdarah Dengue (DBD) Menurut Provinsi di Indonesia Tahun 2019–2020"
+# Analisis Pengaruh Faktor Iklim dan Kepadatan Penduduk Terhadap Kasus Demam Berdarah Dengue (DBD) Menurut Provinsi di Indonesia Tahun 2019–2020
+#### Proyek Akhir Mata Kuliah Pengantar Data Sains
+#### Disusun oleh: Siti Fadilah Nurkhotimah dan Laili Nurrohmatul Fadhila Zulfa
+---
 
-# Kelompok 9 - 2024 C
-## Anggota Kelompok:
-- Siti Fadilah Nurkhotimah         (1314623019 – UNJ / 251155009 – UNESA)
-- Laili Nurrohmatul Fadhila Zulfa  (24031554093 – UNESA)
-
-# Dosen Pengampu: 
-Ulfa Siti Nuraini, S.Stat., M.Stat.
-
-# Deskripsi
+## Deskripsi
 Project ini bertujuan untuk melakukan data wrangling pada tiga dataset:
 1. Data Iklim - Kaggle => Climate Data Daily IDN
-
    https://www.kaggle.com/datasets/greegtitan/indonesia-climate
 2. Data Kepadatan Penduduk - Badan Pusat Statistik (BPS) => Kepadatan Penduduk menurut Provinsi (jiwa/km2)) Tahun 2019 dan 2020
-
    https://www.bps.go.id/id/statistics-table/2/MTQxIzI=/population-density-by-province.html
 3. Data Kasus DBD - Kementerian Kesehatan => Profil Kesehatan Indonesia Tahun 2019 dan 2020
-
    https://www.kemkes.go.id/id/category-download/profil-kesehatan
+
+_© 2026 Siti Fadilah Nurkhotimah. All rights reserved. Dokumen ini disusun untuk kepentingan portofolio akademik._
