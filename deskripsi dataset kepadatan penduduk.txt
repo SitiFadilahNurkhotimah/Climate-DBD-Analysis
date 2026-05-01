@@ -1,0 +1,11 @@
+# KETERANGAN VARIABEL-VARIABEL DATASET KEPADATAN PENDUDUK
+
+
+# Deskripsi fitur kepadatan_penduduk_2019-2020.csv (df_kepduk):
+
+
+provinsi = Nama 34 provinsi di Indonesia
+
+tahun = Tahun 2019 dan 2020
+
+KP = Kepadatan penduduk (jiwa/km2)

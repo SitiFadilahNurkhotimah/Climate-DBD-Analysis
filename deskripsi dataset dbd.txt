@@ -1,0 +1,33 @@
+# KETERANGAN VARIABEL-VARIABEL DATASET KASUS DBD
+
+
+Provinsi = 34 Provinsi di Indonesia
+
+Jumlah Penduduk = Jumlah Penduduk Menurut Provinsi di Indonesia
+
+Jumlah Kasus = Jumlah Kasus DBD Menurut Provinsi di Indonesia
+
+Incidence Rate per 100.000 Penduduk = Tingkat Insidensi DBD per 100.000 Penduduk Provinsi
+
+Meninggal = Jumlah Penduduk Meninggal Menurut Provinsi di Indonesia
+
+CFR (%) = *Case Fatality Rate* (CFR) / Tingkat Kematian Kasus DBD (%) Menurut Provinsi di Indonesia
+
+
+
+# Deskripsi fitur DBD_2019-2020.csv (df_dbd):
+
+
+provinsi = Nama 34 provinsi di Indonesia
+
+jumlah_penduduk = Jumlah Penduduk Menurut Provinsi di Indonesia
+
+jumlah_kasus = Jumlah Kasus DBD Menurut Provinsi di Indonesia
+
+incidence_rate = Incidence Rate per 100.000 Penduduk
+
+meninggal = Jumlah Penduduk Meninggal Menurut Provinsi di Indonesia
+
+cfr = CFR (%)
+
+tahun = Tahun 2019 dan 2020

@@ -1,0 +1,55 @@
+# KETERANGAN VARIABEL-VARIABEL DATASET IKLIM
+
+
+# Deskripsi fitur iklim_2019-2020.csv (df_iklim):
+
+
+A. climate_data.csv (df_climate)
+
+date = Tanggal per hari (daily date) dari 2010-2020
+
+Tn = Suhu minimum (°C)
+
+Tx = Suhu maksimum (°C)
+
+Tavg = Suhu rata-rata (°C)
+
+RH_avg = Kelembaban rata-rata (%)
+
+RR = Curah hujan (mm)
+
+ss = Durasi sinar matahari (jam)
+
+ff_x = Kecepatan angin maksimum (m/s)
+
+ddd_x = Arah angin pada kecepatan maksimum (°)
+
+ff_avg = Kecepatan angin rata-rata (m/s)
+
+ddd_car = Arah angin dominan (°)
+
+station_id = ID stasiun yang mencatat data
+
+
+B. station_detail.csv (df_station)
+
+station_id = ID stasiun yang mencatat data
+
+station_name = Nama stasiun yang mencatat data
+
+region_name = Nama kota dan kabupaten di Indonesia
+
+latitude = Lintang
+
+longitude = Bujur
+
+region_id = ID nama kota dan kabupaten (daerah) di Indonesia 
+
+province_id = ID provinsi di Indonesia
+
+
+C. province_detail.csv (df_prov)
+
+province_id = ID provinsi di Indonesia
+
+province_name = Nama 34 provinsi di Indonesia

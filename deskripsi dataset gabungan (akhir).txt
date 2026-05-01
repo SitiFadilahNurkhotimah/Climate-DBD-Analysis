@@ -1,0 +1,38 @@
+# KETERANGAN VARIABEL-VARIABEL DATASET GABUNGAN (df_iklim + df_kepduk + df_dbd)
+
+
+# Deskripsi fitur Gabungan (all dataset).csv (df_gabungan):
+
+
+provinsi = 34 Provinsi di Indonesia
+
+tahun = Tahun 2019 dan 2020
+
+Tn = Suhu minimum (°C)
+
+Tx = Suhu maksimum (°C)
+
+Tavg = Suhu rata-rata (°C)
+
+RH_avg = kelembaban rata-rata (%)
+
+RR = curah hujan (mm)
+
+ss = durasi sinar matahari (jam)
+
+ff_x = kecepatan angin maksimum (m/s)
+
+ff_avg = kecepatan angin rata-rata (m/s)
+
+KP = Kepadatan Penduduk (jiwa/km2)
+
+JP = Jumlah Penduduk Menurut Provinsi di Indonesia
+
+JK = Jumlah Kasus DBD Menurut Provinsi di Indonesia
+
+IR = Incidence Rate per 100.000 Penduduk / Tingkat Insidensi DBD per 100.000 Penduduk Provinsi
+
+M = Jumlah Penduduk Meninggal Menurut Provinsi di Indonesia
+
+CFR = Case Fatality Rate (CFR) / Tingkat Kematian Kasus DBD (%) Menurut Provinsi di Indonesia
+
