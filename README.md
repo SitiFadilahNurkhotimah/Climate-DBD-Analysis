@@ -1,5 +1,5 @@
 # Analisis Pengaruh Faktor Iklim dan Kepadatan Penduduk Terhadap Kasus Demam Berdarah Dengue (DBD) Menurut Provinsi di Indonesia Tahun 2019–2020
-#### Proyek Akhir Mata Kuliah Pengantar Data Sains
+#### Proyek Akhir Mata Kuliah Data Wrangling
 #### Disusun oleh: Siti Fadilah Nurkhotimah dan Laili Nurrohmatul Fadhila Zulfa
 ---
 
